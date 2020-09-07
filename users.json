@@ -1,0 +1,19 @@
+    {
+        "name" : "Molecule Man",
+        "id" : 29,
+        "usrStatus" : "Dan Jukes",
+        "age" : "31",
+      },
+      {
+        "name" : "Madame Uppercut",
+        "id" : 39,
+        "usrStatus" : "Jane Wilson",
+        "age" : "31",
+      },
+      {
+        "name" : "Eternal Flame",
+        "id" : 1000000,
+        "usrStatus" : "Unknown",
+        "age" : "31",
+      }
+    
